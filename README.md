@@ -4,7 +4,8 @@
 <img width="50%" style="margin:20px 0;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amritesh007&" alt="amritesh007" />
 <img width="50%" style="margin:20px 0;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritesh007" alt="amritesh007" />
 
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, I'm Amritesh ! 
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
+I'm Amritesh Khare !
 
 ---
 
@@ -19,7 +20,7 @@ I like to learn new technologies, programming languages and frameworks to develo
 ✓ 2020: Bachelor of Technology in Information Technology (KNIT, Sultanpur, India) \
 ✓ 2019: Internship at National Informatics Center for Android Development
 
-I’m currently working with [Spring](https://spring.io/) and [Quarkus](https://quarkus.io/) frameworks. \
+I’m currently working with [Spring](https://spring.io/) and [Quarkus](https://quarkus.io/) frameworks 
 
 💬 &nbsp;Feel free to reach out to me. I will be very happy to help you, teach you and support you with your software development.
 
