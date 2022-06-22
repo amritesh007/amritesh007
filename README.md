@@ -16,7 +16,7 @@ I like to learn new technologies, programming languages and frameworks to develo
 
 ✓ 2021: Microsoft Azure Fundamentals Certified Professional (AZ-900) \
 ✓ 2020: Started working with Tata Consultancy Services as Full Stack Developer \
-✓ 2020: Completed courses on Coursera for MERN Stack development (Mondo, Express, React, Node) \
+✓ 2020: Completed courses on Coursera for MERN Stack development (MongoDB, Express, React, Node) \
 ✓ 2020: Bachelor of Technology in Information Technology (KNIT, Sultanpur, India) \
 ✓ 2019: Internship at National Informatics Center for Android Development
 
