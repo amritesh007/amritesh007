@@ -10,7 +10,7 @@ I'm Amritesh Khare !
 ---
 
 ## 👨🏻‍💻 &nbsp;About Me
-I'm Software Development Engineer with ~2 years of experience in Full Stack Software Development, mainly web-based. \
+I'm Software Development Engineer with ~4 years of experience in Full Stack Software Development and data pipelines development mainly. \
 I've experience working in international environments, multicultural teams and different fields (banking, insurance, digital and travel). \
 I like to learn new technologies, programming languages and frameworks to develop new software solutions.
 
